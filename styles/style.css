@@ -210,13 +210,13 @@ button:active {
   }
 
   .timerDisplay {
-    width: 90%;
-    left: 16px;
-    font-size: 2rem;
+    width: 95%;
+    left: 9px;
+    font-size: 1.8rem;
   }
 
   .buttons {
-    width: 40%;
+    width: 35%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
