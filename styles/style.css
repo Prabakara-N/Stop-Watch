@@ -228,4 +228,8 @@ button:active {
     font-size: 0.8rem;
     padding: 8px 10px;
   }
+
+  .social-icon {
+    margin-bottom: 1.5rem;
+  }
 }
